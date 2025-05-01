@@ -1,0 +1,7 @@
+metadata/
+srclibs/
+tmp/
+config.yml
+keystore.p12
+perms.txt
+supervisord.log
