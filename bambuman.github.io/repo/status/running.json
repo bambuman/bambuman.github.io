@@ -1,0 +1,7 @@
+{
+  "commandLine": [
+    "/usr/local/lib/venv/bin/fdroid update"
+  ],
+  "startTimestamp": 1746217254000,
+  "subcommand": "update"
+}
